@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+sentence-transformers
+langchain-text-splitters
+numpy
+requests
+beautifulsoup4
+unstructured
